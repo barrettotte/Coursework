@@ -1,6 +1,6 @@
-# Homebrew Mechanical Engineering Degree:
+# Homebrew Mechanical Engineering Degree Coursework
 
-My "homebrew mechanical engineering degree" based on degrees from [MIT](http://catalog.mit.edu/degree-charts/mechanical-engineering-course-2/) and [UMD](https://eng.umd.edu/sites/clark.umd.edu/files/enme-4yrplan-ge-2016-2017.pdf)
+Coursework for my "homebrew mechanical engineering degree" based on degrees from [MIT](http://catalog.mit.edu/degree-charts/mechanical-engineering-course-2/) and [UMD](https://eng.umd.edu/sites/clark.umd.edu/files/enme-4yrplan-ge-2016-2017.pdf)
 
 I also added a few extra engineering electives for some other topics I was interested in.
 
