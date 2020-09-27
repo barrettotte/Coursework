@@ -1,6 +1,6 @@
 # Homebrew Mechanical Engineering Degree Coursework
 
-Coursework for my "homebrew mechanical engineering degree" based on degrees from [MIT](http://catalog.mit.edu/degree-charts/mechanical-engineering-course-2/) and [UMD](https://eng.umd.edu/sites/clark.umd.edu/files/enme-4yrplan-ge-2016-2017.pdf)
+Coursework for my "homebrew mechanical engineering degree" based on degrees from [MIT](http://catalog.mit.edu/degree-charts/mechanical-engineering-course-2/) and [UMD](https://eng.umd.edu/sites/clark.umd.edu/files/enme-4yrplan-ge-2016-2017.pdf).
 
 I also added a few extra engineering electives for some other topics I was interested in.
 
@@ -40,3 +40,16 @@ I also added a few extra engineering electives for some other topics I was inter
 |            | [Introduction to Aerospace Engineering and Design](https://ocw.mit.edu/courses/aeronautics-and-astronautics/16-00-introduction-to-aerospace-engineering-and-design-spring-2003) | elective  |                         |
 |            | [Introduction to Nuclear Engineering](https://ocw.mit.edu/courses/nuclear-engineering/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-fall-2016)               | elective  |                         |
 |            | [Introduction to Ocean Science and Engineering](https://ocw.mit.edu/courses/mechanical-engineering/2-011-introduction-to-ocean-science-and-engineering-spring-2006)             | elective  |                         |
+
+
+
+## Books
+| ISBN-10                                                 | Title                                                                         |
+| ------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| [0321785509](https://isbnsearch.org/isbn/9780321785503) | Calculus for Scientists and Engineers: Early Transcendentals, Single Variable |
+
+
+
+
+
+
