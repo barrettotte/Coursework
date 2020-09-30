@@ -1,1 +1,0 @@
-# Part VII - Infinite Series
