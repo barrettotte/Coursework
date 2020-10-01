@@ -1,6 +1,6 @@
 # 18.01 - Single Variable Calculus
 
-[Course Home](https://ocw.mit.edu/resources/res-18-006-calculus-revisited-single-variable-calculus-fall-2010/index.htm)
+[Course Home](https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/)
 
 ## Course Completion
 The textbook for this course was too expensive to buy used.
