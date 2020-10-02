@@ -5,9 +5,7 @@ Coursework for my "homebrew mechanical engineering degree" based on degrees from
 I also added a few extra engineering electives for some other topics I was interested in.
 
 
-## Did You Do ALL of the Coursework?
-Short answer: nope.
-
+## Coursework
 For each section/chapter of each course I did the following:
 - Read (preferred) or watch lectures
 - Read suggested or other relevant textbook
