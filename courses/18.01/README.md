@@ -11,9 +11,9 @@ So, I went with this one instead: [Calculus and Analytic Geometry](https://isbns
    - [x] Exercise set 1 - Chapters 1-3
    - [x] Exam 1
 2. Applications of Differentiation
-   - [ ] Lecture notes - Sessions 9-17
-   - [ ] Exercise set 2/3 - Chapter 4
-   - [ ] Exam 2
+   - [x] Lecture notes - Sessions 9-17
+   - [x] Exercise set 2/3 - Chapter 4
+   - [x] Exam 2
 3. Integration
    - [ ] Lecture notes - Sessions 18-25
    - [ ] Exercise set 4/5 - Chapters 5-7
@@ -24,3 +24,5 @@ So, I went with this one instead: [Calculus and Analytic Geometry](https://isbns
    - [ ] Exam 4
 5. Final
    - [ ] Final Exam
+
+**notes taken in separate repository**
