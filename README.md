@@ -23,12 +23,20 @@ There's a whole lot out there I want to learn about and not nearly enough time t
 
 
 ## Courses
-| ID             | Course                                                                                                                                                                          |
+| MIT OCW ID     | Course                                                                                                                                                                          |
 | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| (Udemy)        | [Master MATLAB through Guided Problem Solving](https://www.udemy.com/course/master-matlab-through-guided-problem-solving/learn/)                                                |
+| 6.057          | [Introduction to MATLAB](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-057-introduction-to-matlab-january-iap-2019)                                 |
+| (Udemy)        | [Master Math by Coding in Python](https://www.udemy.com/course/math-with-python/learn/)                                                                                         |
 | 18.01          | [Single Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006)                                                                    |
 |                | [Multivariable Calculus](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010)                                                                      |
 |                | [Differential Equations](https://ocw.mit.edu/courses/mathematics/18-03sc-differential-equations-fall-2011/)                                                                     |
-| 6.057          | [Introduction to MATLAB](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-057-introduction-to-matlab-january-iap-2019)                                 |
+
+
+## TODO
+Separate so I can see what order to take courses
+| MIT OCW ID     | Course                                                                                                                                                                          |
+| -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 |                | [Physical Chemistry I](https://ocw.mit.edu/courses/chemistry/5-61-physical-chemistry-fall-2017)                                                                                 |
 |                | [Physical Chemistry II](https://ocw.mit.edu/courses/chemistry/5-62-physical-chemistry-ii-spring-2008)                                                                           |
 |                | [Physics I - Classical Mechanics](https://ocw.mit.edu/courses/physics/8-012-physics-i-classical-mechanics-fall-2008)                                                            |
