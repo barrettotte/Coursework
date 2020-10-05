@@ -59,7 +59,6 @@ Separate so I can see what order to take courses
 |                | [Introduction to Engineering Systems](https://ocw.mit.edu/courses/engineering-systems-division/esd-00-introduction-to-engineering-systems-spring-2011)                          | |
 |                | [Elements of Mechanical Design](https://ocw.mit.edu/courses/mechanical-engineering/2-72-elements-of-mechanical-design-spring-2009)                                              | |
 |                | [Internal Combustion Engines](https://ocw.mit.edu/courses/mechanical-engineering/2-61-internal-combustion-engines-spring-2017)                                                  | |
-|                | [Unified Engineering I, II, III, & IV](https://ocw.mit.edu/courses/aeronautics-and-astronautics/16-01-unified-engineering-i-ii-iii-iv-fall-2005-spring-2006)                    | |
 |                | [Introduction to Bioengineering](https://ocw.mit.edu/courses/biological-engineering/20-010j-introduction-to-bioengineering-be-010j-spring-2006)                                 | |
 |                | [Introduction to Aerospace Engineering and Design](https://ocw.mit.edu/courses/aeronautics-and-astronautics/16-00-introduction-to-aerospace-engineering-and-design-spring-2003) | |
 |                | [Introduction to Nuclear Engineering](https://ocw.mit.edu/courses/nuclear-engineering/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-fall-2016)               | |
