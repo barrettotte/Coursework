@@ -28,20 +28,17 @@ So, I went with this one instead: [Calculus and Analytic Geometry](https://isbns
    - [x] Exercises Chapter 6
    - [x] Read Chapter 7
    - [x] Exercises Chapter 7
-   - [ ] Exam 3
+   - [x] Exam 3
 4. Techniques of Integration
-   - [ ] Lecture notes - Sessions 26-38
-   - [ ] Read Chapter 8
-   - [ ] Exercises Chapter 8
-   - [ ] Read Chapter 9
-   - [ ] Exercises Chapter 9
-   - [ ] Read Chapter 10
-   - [ ] Exercises Chapter 10
-   - [ ] Read Chapter 11
-   - [ ] Exercises Chapter 11
-   - [ ] Exam 4
+   - [x] Lecture notes - Sessions 26-38
+   - [x] Read Chapter 8
+   - [x] Exercises Chapter 8
+   - [x] Read Chapter 9
+   - [x] Exercises Chapter 9
+   - [x] Read Chapter 10
+   - [x] Exam 4
 5. Final
-   - [ ] Final Exam
+   - [x] Final Exam
 
 **Notes taken in separate repository**
 
@@ -59,4 +56,3 @@ So, I went with this one instead: [Calculus and Analytic Geometry](https://isbns
 | 8       | Techniques of Integration                  |
 | 9       | Sequences and Series                       |
 | 10      | Polar Coordinates and Parametric Equations |
-| 11      | Conic Sections                             |

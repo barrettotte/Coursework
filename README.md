@@ -30,7 +30,7 @@ There's a whole lot out there I want to learn about and not nearly enough time t
 | (Udemy)        | [Master MATLAB through Guided Problem Solving](https://www.udemy.com/course/master-matlab-through-guided-problem-solving/learn/)                                                | 09-12-2020 |
 | 6.057          | [Introduction to MATLAB](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-057-introduction-to-matlab-january-iap-2019)                                 | 09-13-2020 |
 | (Udemy)        | [Master Math by Coding in Python](https://www.udemy.com/course/math-with-python/learn/)                                                                                         | 09-24-2020 |
-| 18.01          | [Single Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006)                                                                    | |
+| 18.01          | [Single Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006)                                                                    | 10-10-2020 |
 | 18.02SC        | [Multivariable Calculus](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/)                                                                     | |
 | 18.03SC        | [Differential Equations](https://ocw.mit.edu/courses/mathematics/18-03sc-differential-equations-fall-2011/)                                                                     | |
 |                | [Physics I - Classical Mechanics](https://ocw.mit.edu/courses/physics/8-012-physics-i-classical-mechanics-fall-2008)                                                            | |
