@@ -40,8 +40,6 @@ So, I went with this one instead: [Calculus and Analytic Geometry](https://isbns
 5. Final
    - [x] Final Exam
 
-**Notes taken in separate repository**
-
 
 ## Textbook
 | Chapter | Title                                      |
