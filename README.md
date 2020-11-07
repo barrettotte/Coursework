@@ -1,10 +1,9 @@
 # Homebrew Mechanical Engineering Degree Coursework
 
-Coursework for my "homebrew mechanical engineering degree" based on degrees from [MIT](http://catalog.mit.edu/degree-charts/mechanical-engineering-course-2/) and [UMD](https://eng.umd.edu/sites/clark.umd.edu/files/enme-4yrplan-ge-2016-2017.pdf).
+Coursework for my "homebrew mechanical engineering degree" using [MIT OCW](https://ocw.mit.edu/).
 
-I also added a few extra engineering electives for some other topics I was interested in.
-
-Eventually, I might make this a general "homebrew degree" repository as I get more interests.
+My notes are taken in a separate repository with other topics (currently private).
+Eventually I might make this a general "homebrew degree" repository as I get more interests.
 
 
 ## Coursework
@@ -29,8 +28,8 @@ There's a whole lot out there I want to learn about and not nearly enough time t
 | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
 | 6.057          | [Introduction to MATLAB](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-057-introduction-to-matlab-january-iap-2019)                                 | 09-13-2020 |
 | 18.01          | [Single Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006)                                                                    | 10-10-2020 |
-| 18.02SC        | [Multivariable Calculus](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/)                                                                     | |
-| 18.03SC        | [Differential Equations](https://ocw.mit.edu/courses/mathematics/18-03sc-differential-equations-fall-2011/)                                                                     | |
+| 18.02          | [Multivariable Calculus](https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007)                                                                        | |
+| 18.03          | [Differential Equations](https://ocw.mit.edu/courses/mathematics/18-03-differential-equations-spring-2010/)                                                                     | |
 | 3.091SC        | [Introduction to Solid State Chemistry](https://ocw.mit.edu/courses/materials-science-and-engineering/3-091sc-introduction-to-solid-state-chemistry-fall-2010)                  | |
 
 
@@ -63,14 +62,11 @@ Separate so I can see what order to take courses
 |                | [Introduction to Ocean Science and Engineering](https://ocw.mit.edu/courses/mechanical-engineering/2-011-introduction-to-ocean-science-and-engineering-spring-2006)             | |
 
 
-
 ## Books
 Cheap used books to supplement courses.
 
-| ISBN-13                                                    | Title                                                                         | Author             | Related Course(s) |
-| ---------------------------------------------------------- | ----------------------------------------------------------------------------- | ------------------ | ----------------- |
-| [9780871503237](https://isbnsearch.org/isbn/9780871503237) | Calculus and Analytic Geometry                                                | Faires, J. Douglas | 18.01, 18.02SC    |
-| [9780495011637](https://isbnsearch.org/isbn/9780495011637) | Calculus (6th Edition)                                                        | Stewart, James     | 18.02SC           |
-| [9780486445953](https://isbnsearch.org/isbn/9780486445953) | An Introduction to Differential Equations and Their Applications              | Stanley J. Farlow  | 18.03SC           |
-
-
+| ISBN-13                                                    | Title                                                                     | Author             | Related Course(s) |
+| ---------------------------------------------------------- | ------------------------------------------------------------------------- | ------------------ | ----------------- |
+| [9780871503237](https://isbnsearch.org/isbn/9780871503237) | Calculus and Analytic Geometry                                            | Faires, J. Douglas | 18.01, 18.02      |
+| [9780538497817](https://isbnsearch.org/isbn/9780538497817) | Calculus, 7th Edition                                                     | Stewart, James     | 18.02             |
+| [9780486445953](https://isbnsearch.org/isbn/9780486445953) | An Introduction to Differential Equations and Their Applications          | Stanley J. Farlow  | 18.03             |
