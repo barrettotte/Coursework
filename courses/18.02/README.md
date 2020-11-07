@@ -8,8 +8,8 @@ Textbook: [Calculus 7e James Stewart](https://isbnsearch.org/isbn/9780871503237)
 1. Vectors and Matrices
    - [x] Part 1 Lectures
    - [x] Read Chapter 12
-   - [x] Read Chapter 13
    - [ ] Chapter 12 problems
+   - [x] Read Chapter 13
    - [ ] Chapter 13 problems
    - [ ] Exam 1
 2. Partial Derivatives
@@ -32,10 +32,10 @@ Textbook: [Calculus 7e James Stewart](https://isbnsearch.org/isbn/9780871503237)
 
 
 ## Textbook
-| Chapter | Title                                      |
-| ------- | ------------------------------------------ | 
-| 12      | Vectors and the Geometry of Space          |
-| 13      | Vector Functions                           |
-| 14      | Partial Derivatives                        |
-| 15      | Multiple Integrals                         |
-| 16      | Vector Calculus                            |
+| Chapter | Title                              |
+| ------- | ---------------------------------- | 
+| 12      | Vectors and the Geometry of Space  |
+| 13      | Vector Functions                   |
+| 14      | Partial Derivatives                |
+| 15      | Multiple Integrals                 |
+| 16      | Vector Calculus                    |
