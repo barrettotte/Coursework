@@ -1,6 +1,6 @@
-# Homebrew-Degrees
+# Coursework
 
-Coursework for my "homebrew degree(s)" using [MIT OCW](https://ocw.mit.edu/).
+Coursework for various courses from [MIT OCW](https://ocw.mit.edu/).
 
 My notes are taken in a separate repository with other topics (currently private).
 
