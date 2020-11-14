@@ -16,7 +16,7 @@ For each section/chapter of each course I did the following:
 
 
 While it would be cool to sit down and take year(s) to rigorously go through everything A-Z, its just not practical.
-Depending on what the assignments were, I would cut them short as it made sense to me.
+Depending on what the assignments were, I would cut them short as it made sense to do so.
 
 I'm a code monkey that wanted to branch out and learn new disciplines in a structured way.
 There's a whole lot out there I want to learn about and not nearly enough time to do it.
@@ -24,6 +24,7 @@ There's a whole lot out there I want to learn about and not nearly enough time t
 
 ## Homebrew Degrees
 When I say "homebrew degree" I just mean a list of courses that make sense to take together.
+By no means do I think these are equivalent to an actual degree.
 
 | Title                                   | Course Count |
 | --------------------------------------- | ------------ |
