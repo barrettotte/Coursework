@@ -8,15 +8,15 @@ Textbook: [Calculus 7e James Stewart](https://isbnsearch.org/isbn/9780871503237)
 1. Vectors and Matrices
    - [x] Part 1 Lectures
    - [x] Read Chapter 12
-   - [ ] Chapter 12 problems
+   - [x] Chapter 12 problems
    - [x] Read Chapter 13
-   - [ ] Chapter 13 problems
-   - [ ] Exam 1
+   - [x] Chapter 13 problems
+   - [x] Exam 1
 2. Partial Derivatives
-   - [ ] Part 2 Lectures
-   - [ ] Read Chapter 14
-   - [ ] Chapter 14 problems
-   - [ ] Exam 2
+   - [x] Part 2 Lectures
+   - [x] Read Chapter 14
+   - [x] Chapter 14 problems
+   - [x] Exam 2
 3. Double Integrals and Line Integrals in the Plane
    - [ ] Part 3 Lectures
    - [ ] Read Chapter 15
