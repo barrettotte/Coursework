@@ -18,8 +18,8 @@ Textbook: [Calculus 7e James Stewart](https://isbnsearch.org/isbn/9780871503237)
    - [x] Chapter 14 problems
    - [x] Exam 2
 3. Double Integrals and Line Integrals in the Plane
-   - [ ] Part 3 Lectures
-   - [ ] Read Chapter 15
+   - [x] Part 3 Lectures
+   - [x] Read Chapter 15
    - [ ] Chapter 15 problems
    - [ ] Exam 3
 4. Triple Integrals and Surface Integrals in 3-Space
@@ -39,3 +39,7 @@ Textbook: [Calculus 7e James Stewart](https://isbnsearch.org/isbn/9780871503237)
 | 14      | Partial Derivatives                |
 | 15      | Multiple Integrals                 |
 | 16      | Vector Calculus                    |
+
+
+## References
+- https://tutorial.math.lamar.edu/classes/calciii/calciii.aspx
