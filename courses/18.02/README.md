@@ -20,15 +20,13 @@ Textbook: [Calculus 7e James Stewart](https://isbnsearch.org/isbn/9780871503237)
 3. Double Integrals and Line Integrals in the Plane
    - [x] Part 3 Lectures
    - [x] Read Chapter 15
-   - [ ] Chapter 15 problems
-   - [ ] Exam 3
+   - [x] Chapter 15 problems
+   - [x] Exam 3
 4. Triple Integrals and Surface Integrals in 3-Space
-   - [ ] Part 4 Lectures
-   - [ ] Read Chapter 16
-   - [ ] Chapter 16 problems
-   - [ ] Exam 4
-5. Final
-   - [ ] Final Exam
+   - [x] Part 4 Lectures
+   - [x] Read Chapter 16
+   - [x] Chapter 16 problems
+   - [x] Exam 4
 
 
 ## Textbook
