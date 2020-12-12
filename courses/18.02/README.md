@@ -2,8 +2,9 @@
 
 [Course Home](https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/index.htm)
 
-## Course Completion
 Textbook: [Calculus 7e James Stewart](https://isbnsearch.org/isbn/9780871503237)
+
+## Course Completion
 
 1. Vectors and Matrices
    - [x] Part 1 Lectures

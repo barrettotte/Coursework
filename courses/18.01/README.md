@@ -2,10 +2,9 @@
 
 [Course Home](https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/)
 
-## Course Completion
-The textbook for this course was too expensive to buy used.
-So, I went with this one instead: [Calculus and Analytic Geometry](https://isbnsearch.org/isbn/9780871503237)
+Textbook: [Calculus and Analytic Geometry](https://isbnsearch.org/isbn/9780871503237)
 
+## Course Completion
 1. Derivatives
    - [x] Lecture notes - Sessions 1-8
    - [x] Read Chapter 1
@@ -54,3 +53,7 @@ So, I went with this one instead: [Calculus and Analytic Geometry](https://isbns
 | 8       | Techniques of Integration                  |
 | 9       | Sequences and Series                       |
 | 10      | Polar Coordinates and Parametric Equations |
+
+
+## References
+- 
