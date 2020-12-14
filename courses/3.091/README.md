@@ -9,28 +9,38 @@ Textbook:
 
 ## Course Completion
 1. Unit 1
-   - [ ] Lectures 1-9
+   - [x] Lectures 1-9
+   - [x] Reading A - 1.1-1.7, 7.1, 3.1, 3.3-3.4
    - [ ] Problem set A (1) - Atoms
+   - [x] Reading B - 6.1-6.2
    - [ ] Problem set B (2-4) - Atomic Spectra and Quantum
+   - [x] Reading C - 6.6, 7.3, 8.1-8.3
    - [ ] Problem set C (5-7) - Bonding
+   - [x] Reading D - 9.1-9.4
    - [ ] Problem set D (8-11) - Orbitals and Molecules
-   - [ ] Exam 1
 2. Unit 2
    - [ ] Lectures 10-20
+   - [ ] Reading E - 11.2, 11.4-11.7, 12.5
    - [ ] Problem set E (12-13) - IMFs and Phases
+   - [ ] Reading F - 12.6, 12.1-12.3
    - [ ] Problem set F (14-16) - Electronic Materials and Crystallography
+   - [ ] Reading G - 12.3
    - [ ] Problem set G (17-21) - Diffraction and X-rays
-   - [ ] Exam 2
 3. Unit 3
    - [ ] Lectures 21-31
+   - [ ] Reading H - 12.4
    - [ ] Problem set H (22-23) - Defects
+   - [ ] Reading I - N/A
    - [ ] Problem set I (24-25) - Glasses
+   - [ ] Reading J - 14.1-14.5, 13.1-13.3, 17.1, 17.4
    - [ ] Problem set J (26) - Kinetics and Reactions
+   - [ ] Reading K - 4.6, 8.7, 16.1, 19.1-19.2, 19.5, 19.7
    - [ ] Problem set K (27-29) - Aqueous Solutions and Acids/Bases
+   - [ ] Reading L - 24.5
    - [ ] Problem set L (30-33) - Polymers
-   - [ ] Exam 3
 4. Final
    - [ ] Lectures 32-36
+   - [ ] Reading M - N/A
    - [ ] Problem set M (34-36) - Diffusion
    - [ ] Final Exam
 
