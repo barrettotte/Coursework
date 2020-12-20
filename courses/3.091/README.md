@@ -11,13 +11,13 @@ Textbook:
 1. Unit 1
    - [x] Lectures 1-9
    - [x] Reading A - 1.1-1.7, 7.1, 3.1, 3.3-3.4
-   - [ ] Problem set A (1) - Atoms
+   - [x] Problem set A (1) - Atoms
    - [x] Reading B - 6.1-6.2
-   - [ ] Problem set B (2-4) - Atomic Spectra and Quantum
+   - [x] Problem set B (2-4) - Atomic Spectra and Quantum
    - [x] Reading C - 6.6, 7.3, 8.1-8.3
-   - [ ] Problem set C (5-7) - Bonding
+   - [x] Problem set C (5-7) - Bonding
    - [x] Reading D - 9.1-9.4
-   - [ ] Problem set D (8-11) - Orbitals and Molecules
+   - [x] Problem set D (8-11) - Orbitals and Molecules
 2. Unit 2
    - [ ] Lectures 10-20
    - [ ] Reading E - 11.2, 11.4-11.7, 12.5
