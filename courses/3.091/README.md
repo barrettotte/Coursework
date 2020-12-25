@@ -20,8 +20,8 @@ Textbook:
    - [x] Problem set D (8-11) - Orbitals and Molecules
 2. Unit 2
    - [ ] Lectures 10-20
-   - [ ] Reading E - 11.2, 11.4-11.7, 12.5
-   - [ ] Problem set E (12-13) - IMFs and Phases
+   - [x] Reading E - 11.2, 11.4-11.7, 12.5
+   - [x] Problem set E (12-13) - IMFs and Phases
    - [ ] Reading F - 12.6, 12.1-12.3
    - [ ] Problem set F (14-16) - Electronic Materials and Crystallography
    - [ ] Reading G - 12.3
