@@ -1,37 +1,10 @@
-# Coursework
+# Mechanical Engineering
 
-Coursework for various courses from [MIT OCW](https://ocw.mit.edu/).
-
-My notes are taken in a separate repository with other topics (currently private).
+The courses I took for studying mechanical engineering.
 
 
-## Coursework
-For each section/chapter of each course I did the following:
-- Read (preferred) or watch lectures
-- Read suggested or other relevant textbook
-- Complete some exercises. Either:
-  - Some of the instructor's suggested exercises or homework (only if they show expected final answer).
-  - Some exercises that seemed to demonstrate new concepts that were introduced in the section.
-- Complete exams if genuinely interested and reasonable size.
+## Courses
 
-While it would be cool to sit down and take years to rigorously go through everything A-Z, its just not practical.
-Depending on what the assignments were, I would cut them short as it made sense to do so.
-
-Going through these courses is just my way of trying to become more
-familiar with things outside of programming. In no way am I a master
-of anything or even close to it. I just really enjoy learning new things.
-
-
-## Homebrew Degrees
-When I say "homebrew degree" I just mean a list of courses that make sense to take together.
-By no means do I think these are equivalent to an actual degree.
-
-| Title                                                           | Course Count |
-| --------------------------------------------------------------- | ------------ |
-| [Mechanical Engineering](disciplines/mechanical_engineering.md) | 30 |
-
-
-## All Courses
 
 ### Completed
 | Link                                                                                                                                 |        Title                                                 | Discipline             |
@@ -62,6 +35,7 @@ By no means do I think these are equivalent to an actual degree.
 | [MIT 2.72](https://ocw.mit.edu/courses/mechanical-engineering/2-72-elements-of-mechanical-design-spring-2009)                            | [Elements of Mechanical Design](courses/)                    | Mechanical Engineering |
 | [MIT 3.00](https://ocw.mit.edu/courses/materials-science-and-engineering/3-00-thermodynamics-of-materials-fall-2002/index.htm)           | [Thermodynamics of Materials](courses/)                      | Materials Science and Engineering |
 | [MIT 3.012](https://ocw.mit.edu/courses/materials-science-and-engineering/3-012-fundamentals-of-materials-science-fall-2005/)            | [Fundamentals of Materials Science](course/)                 | Materials Science and Engineering |
+| [MIT 3.032](https://ocw.mit.edu/courses/materials-science-and-engineering/3-032-mechanical-behavior-of-materials-fall-2007/) | [Mechanical Behavior of Materials]() | Materials Science and Engineering |
 | [MIT 5.61](https://ocw.mit.edu/courses/chemistry/5-61-physical-chemistry-fall-2017)                                                      | [Physical Chemistry I](courses/)                             | Chemistry |
 | [MIT 8.012](https://ocw.mit.edu/courses/physics/8-012-physics-i-classical-mechanics-fall-2008)                                           | [Physics I - Classical Mechanics](courses/)                  | Physics |
 | [MIT 8.022](https://ocw.mit.edu/courses/physics/8-022-physics-ii-electricity-and-magnetism-fall-2002)                                    | [Physics II - Electricity and Magnetism](courses/)           | Physics |
@@ -72,13 +46,5 @@ By no means do I think these are equivalent to an actual degree.
 | [MIT ESD.00](https://ocw.mit.edu/courses/engineering-systems-division/esd-00-introduction-to-engineering-systems-spring-2011)            | [Introduction to Engineering Systems](courses/)              | Engineering Systems Division |
 
 
-## Books
-A really basic list of cheap used books I bought to supplement courses.
-Generally I tried not spend over twenty dollars per book.
 
-| ISBN-13                                                    | Title                                                            |
-| ---------------------------------------------------------- | ---------------------------------------------------------------- |
-| [9780871503237](https://isbnsearch.org/isbn/9780871503237) | Calculus and Analytic Geometry                                   |
-| [9780538497817](https://isbnsearch.org/isbn/9780538497817) | Calculus, 7th Edition                                            |
-| [9780805338034](https://isbnsearch.org/isbn/9780805338034) | Chemistry: Principles, Patterns, And Applications                |
-| [9781439847909](https://isbnsearch.org/isbn/9781439847909) | Solid State Chemistry: An Introduction, Fourth Edition           |
+
