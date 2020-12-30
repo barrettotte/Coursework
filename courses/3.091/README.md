@@ -6,6 +6,9 @@ Textbook:
 - [General Chemistry: Principles, Patterns, and Applications](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/index.html)
 - [Solid State Chemistry: An Introduction, Fourth Edition](https://isbnsearch.org/isbn/9781439847909)
 
+Assigned problem sets were kind of subpar since I couldn't do the classic check answers
+in the back of the book on all odd numbered questions.
+
 
 ## Course Completion
 1. Unit 1
@@ -19,13 +22,13 @@ Textbook:
    - [x] Reading D - 9.1-9.4
    - [x] Problem set D (8-11) - Orbitals and Molecules
 2. Unit 2
-   - [ ] Lectures 10-20
+   - [x] Lectures 10-20
    - [x] Reading E - 11.2, 11.4-11.7, 12.5
    - [x] Problem set E (12-13) - IMFs and Phases
-   - [ ] Reading F - 12.6, 12.1-12.3
-   - [ ] Problem set F (14-16) - Electronic Materials and Crystallography
-   - [ ] Reading G - 12.3
-   - [ ] Problem set G (17-21) - Diffraction and X-rays
+   - [x] Reading F - 12.6, 12.1-12.3
+   - [x] Problem set F (14-16) - Electronic Materials and Crystallography
+   - [x] Reading G - 12.3
+   - [x] Problem set G (17-21) - Diffraction and X-rays
 3. Unit 3
    - [ ] Lectures 21-31
    - [ ] Reading H - 12.4
