@@ -31,10 +31,10 @@ in the back of the book on all odd numbered questions.
    - [x] Problem set G (17-21) - Diffraction and X-rays
 3. Unit 3
    - [ ] Lectures 21-31
-   - [ ] Reading H - 12.4
-   - [ ] Problem set H (22-23) - Defects
-   - [ ] Reading I - N/A
-   - [ ] Problem set I (24-25) - Glasses
+   - [x] Reading H - 12.4
+   - [x] Problem set H (22-23) - Defects
+   - [x] Reading I - N/A
+   - [x] Problem set I (24-25) - Glasses
    - [ ] Reading J - 14.1-14.5, 13.1-13.3, 17.1, 17.4
    - [ ] Problem set J (26) - Kinetics and Reactions
    - [ ] Reading K - 4.6, 8.7, 16.1, 19.1-19.2, 19.5, 19.7
@@ -43,7 +43,7 @@ in the back of the book on all odd numbered questions.
    - [ ] Problem set L (30-33) - Polymers
 4. Final
    - [ ] Lectures 32-36
-   - [ ] Reading M - N/A
+   - [x] Reading M - N/A
    - [ ] Problem set M (34-36) - Diffusion
    - [ ] Final Exam
 
