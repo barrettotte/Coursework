@@ -31,7 +31,7 @@ By no means do I think these are equivalent to an actual degree.
 | [Mechanical Engineering](disciplines/mechanical_engineering.md) | 32 |
 
 
-### Completed Courses
+## Completed Courses
 | Sequence | Link | Title | Discipline | Level |
 | ---- | ---- | ----- | ---------- | ----- |
 | 1 | [MIT 6.057](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-057-introduction-to-matlab-january-iap-2019) | [Introduction to MATLAB](courses/6.057) | Electrical Engineering and Computer Science | Undergraduate |
