@@ -5,6 +5,14 @@ Coursework for various courses from [MIT OCW](https://ocw.mit.edu/).
 My notes are taken in a separate repository with other topics (currently private).
 
 
+## Purpose
+Going through these courses is just my way of trying to become more familiar with things outside of programming. 
+In no way am I a master of anything in these courses or even close to it. 
+
+If I learn a handful of things by the end of a course, then I accomplished my goal.
+I just really enjoy learning new things.
+
+
 ## Coursework
 For each section/chapter of each course I did the following:
 - Read (preferred) or watch lectures
@@ -12,14 +20,10 @@ For each section/chapter of each course I did the following:
 - Complete some exercises. Either:
   - Some of the instructor's suggested exercises or homework (only if they show expected final answer).
   - Some exercises that seemed to demonstrate new concepts that were introduced in the section.
-- Complete exams if genuinely interested and reasonable size.
+- Complete exams if genuinely interested, reasonable size, and solutions included.
 
 While it would be cool to sit down and take years to rigorously go through everything A-Z, its just not practical.
 Depending on what the assignments were, I would cut them short as it made sense to do so.
-
-Going through these courses is just my way of trying to become more
-familiar with things outside of programming. In no way am I a master
-of anything or even close to it. I just really enjoy learning new things.
 
 
 ## Homebrew Degrees
@@ -49,4 +53,3 @@ Generally I tried not spend over twenty dollars per book.
 | [9780871503237](https://isbnsearch.org/isbn/9780871503237) | Calculus and Analytic Geometry                                   |
 | [9780538497817](https://isbnsearch.org/isbn/9780538497817) | Calculus, 7th Edition                                            |
 | [9780805338034](https://isbnsearch.org/isbn/9780805338034) | Chemistry: Principles, Patterns, And Applications                |
-| [9781439847909](https://isbnsearch.org/isbn/9781439847909) | Solid State Chemistry: An Introduction, Fourth Edition           |

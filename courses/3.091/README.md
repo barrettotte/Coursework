@@ -4,10 +4,13 @@
 
 Textbook: 
 - [General Chemistry: Principles, Patterns, and Applications](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/index.html)
-- [Solid State Chemistry: An Introduction, Fourth Edition](https://isbnsearch.org/isbn/9781439847909)
 
-Assigned problem sets were kind of subpar since I couldn't do the classic check answers
-in the back of the book on all odd numbered questions.
+I couldn't do a lot of the assigned problems because there were no solution sets to check answers.
+Additionally, the textbook was not consitent on providing answers to odd-numbered questions.
+So, I did what I could, I'll probably have to revisit things in the future if I want a better understanding.
+
+There was no textbook content for amorphous solids (glasses) or polymers.
+So, those sections were skipped over...they should be covered in a materials science course.
 
 
 ## Course Completion
@@ -30,28 +33,12 @@ in the back of the book on all odd numbered questions.
    - [x] Reading G - 12.3
    - [x] Problem set G (17-21) - Diffraction and X-rays
 3. Unit 3
-   - [ ] Lectures 21-31
+   - [x] Lectures 21-31
    - [x] Reading H - 12.4
    - [x] Problem set H (22-23) - Defects
    - [x] Reading I - N/A
    - [x] Problem set I (24-25) - Glasses
-   - [ ] Reading J - 14.1-14.5, 13.1-13.3, 17.1, 17.4
-   - [ ] Problem set J (26) - Kinetics and Reactions
-   - [ ] Reading K - 4.6, 8.7, 16.1, 19.1-19.2, 19.5, 19.7
-   - [ ] Problem set K (27-29) - Aqueous Solutions and Acids/Bases
-   - [ ] Reading L - 24.5
-   - [ ] Problem set L (30-33) - Polymers
-4. Final
-   - [ ] Lectures 32-36
-   - [x] Reading M - N/A
-   - [ ] Problem set M (34-36) - Diffusion
-   - [ ] Final Exam
-
-
-## Textbook
-| Chapter | Title                                      |
-| ------- | ------------------------------------------ | 
-
-
-## References
-- 
+   - [x] Reading J - 14.1-14.5, 13.1-13.3, 17.1, 17.4
+   - [x] Problem set J (26) - Kinetics and Reactions
+   - [x] Reading K - 4.6, 8.7, 16.1, 19.1-19.2, 19.5, 19.7
+   - [x] Problem set K (27-29) - Aqueous Solutions and Acids/Bases
