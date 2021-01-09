@@ -20,7 +20,6 @@ For each section/chapter of each course I did the following:
 - Complete some exercises. Either:
   - Some of the instructor's suggested exercises or homework (only if they show expected final answer).
   - Some exercises that seemed to demonstrate new concepts that were introduced in the section.
-- Complete exams if genuinely interested, reasonable size, and solutions included.
 
 While it would be cool to sit down and take years to rigorously go through everything A-Z, its just not practical.
 Depending on what the assignments were, I would cut them short as it made sense to do so.
@@ -44,12 +43,19 @@ By no means do I think these are equivalent to an actual degree.
 | 4 | [MIT 3.091](https://ocw.mit.edu/courses/materials-science-and-engineering/3-091-introduction-to-solid-state-chemistry-fall-2018/) | [Introduction to Solid State Chemistry](courses/3.091) | Materials Science and Engineering | Undergraduate |
 
 
+### In Progress
+| Sequence | Link | Title | Discipline | Level |
+| ---- | ---- | ----- | ---------- | ----- |
+| 5 | [MIT 18.03](https://ocw.mit.edu/courses/mathematics/18-03-differential-equations-spring-2010/) | [Differential Equations](courses/18.03) | Mathematics | Undergraduate |
+
+
 ## Books
 A really basic list of cheap used books I bought to supplement courses.
 Generally I tried not spend over twenty dollars per book.
 
-| ISBN-13                                                    | Title                                                            |
-| ---------------------------------------------------------- | ---------------------------------------------------------------- |
-| [9780871503237](https://isbnsearch.org/isbn/9780871503237) | Calculus and Analytic Geometry                                   |
-| [9780538497817](https://isbnsearch.org/isbn/9780538497817) | Calculus, 7th Edition                                            |
-| [9780805338034](https://isbnsearch.org/isbn/9780805338034) | Chemistry: Principles, Patterns, And Applications                |
+| ISBN-13 | Title |
+| ---- | ---- |
+| [9780871503237](https://isbnsearch.org/isbn/9780871503237) | Calculus and Analytic Geometry |
+| [9780538497817](https://isbnsearch.org/isbn/9780538497817) | Calculus, 7th Edition |
+| [9780805338034](https://isbnsearch.org/isbn/9780805338034) | Chemistry: Principles, Patterns, And Applications |
+| [9780495108368](https://isbnsearch.org/isbn/9780495108368) | Differential Equations with Boundary-Value Problems |

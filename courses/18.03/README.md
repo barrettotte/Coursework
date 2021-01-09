@@ -2,22 +2,52 @@
 
 [Course Home](https://ocw.mit.edu/courses/mathematics/18-03-differential-equations-spring-2010/index.htm)
 
-Textbook: 
+Textbook: [Differential Equations with Boundary-Value Problems](https://isbnsearch.org/isbn/9780495108368)
 
 
 ## Course Completion
 1. First-order Differential Equations
-   - [ ] Exam 1
+   - [ ] Reading - chapters 1-3, 9.1
+   - [ ] Lectures 1-9
+   - [ ] Problem set 1
+   - [ ] Problem set 2
+   - [ ] Problem set 3
 2. Second-order Linear Equations
-   - [ ] Exam 2
+   - [ ] Reading - chapters 4-6
+   - [ ] Lectures 11-18
+   - [ ] Problem set 3
+   - [ ] Problem set 4
 3. Fourier Series
-   - [ ] Exam 3
+   - [ ] Reading - chapters 7,11
+   - [ ] Lectures 20-30
+   - [ ] Problem set 5
+   - [ ] Problem set 6
+   - [ ] Problem set 7
 4. First Order Systems
-   - [ ] Exam 4
+   - [ ] Reading - chapter 8
+   - [ ] Lectures 32-39
+   - [ ] Problem set 8
+   - [ ] Problem set 9
+
 
 ## Textbook
-| Chapter | Title                                      |
-| ------- | ------------------------------------------ | 
+| Chapter | Title |
+| ---- | ---- | 
+| 1 | Introduction to Differential Equations |
+| 2 | First-Order Differential Equations |
+| 3 | Modeling with First-Order Differential Equations |
+| 4 | Higher-Order Differential Equations |
+| 5 | Modeling with Higher-Order Differential Equations |
+| 6 | Series Solutions of Linear Equations |
+| 7 | The Laplace Transform | 
+| 8 | Systems of Linear First-Order Differential Equations |
+| 9 | Numerical Solutions of Ordinary Differential Equations | 
+| 10 | Plane Autonomous Systems |
+| 11 | Orthogonal Functions and Fourier Series |
+| 12 | Boundary-Value Problems in Rectangular Coordinates |
+| 13 | Boundary-Value Problems in Other Coordinate Systems |
+| 14 | Integral Transforms |
+| 15 | Numerical Solutions of Partial Differential Equations |
 
 
 ## References
