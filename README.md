@@ -21,8 +21,14 @@ For each section/chapter of each course I did the following:
   - Some of the instructor's suggested exercises or homework (only if they show expected final answer).
   - Some exercises that seemed to demonstrate new concepts that were introduced in the section.
 
+Sometimes courses wouldn't have any solutions to check my assignments against. So, the course would pretty much
+just be a guide to what I was supposed to learn from the assigned textbook. I would just use the textbook's
+odd-numbered answers to check my work.
+
 While it would be cool to sit down and take years to rigorously go through everything A-Z, its just not practical.
-Depending on what the assignments were, I would cut them short as it made sense to do so.
+There's a fine line between being pragmatic and having an illusion of competence with what I'm learning.
+I'm sure that some courses I stayed on the illusion side and some I remained pragmatic.
+On top of learning new material I am also still learning how to learn properly.
 
 
 ## Homebrew Degrees
