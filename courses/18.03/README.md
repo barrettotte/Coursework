@@ -7,26 +7,26 @@ Textbook: [Differential Equations with Boundary-Value Problems](https://isbnsear
 
 ## Course Completion
 1. First-order Differential Equations
-   - [ ] Reading - chapters 1-3, 9.1
-   - [ ] Lectures 1-9
-   - [ ] Problems chapter 1 (1.1 - 1.3)
-   - [ ] Problems chapter 2 (2.1 - 2.6)
-   - [ ] Problems chapter 3 (3.1 - 3.3)
+   - [x] Reading - chapters 1-3
+   - [x] Lectures 1-9
+   - [x] Problems chapter 1
+   - [x] Problems chapter 2
+   - [x] Problems chapter 3
 2. Second-order Linear Equations
    - [ ] Reading - chapters 4-6
    - [ ] Lectures 11-18
-   - [ ] Problems chapter 4 (4.1 - 4.9)
-   - [ ] Problems chapter 5 (5.1 - 5.3)
-   - [ ] Problems chapter 6 (6.1 - 6.3)
+   - [ ] Problems chapter 4
+   - [ ] Problems chapter 5
+   - [ ] Problems chapter 6
 3. Fourier Series
    - [ ] Reading - chapters 7,11
    - [ ] Lectures 20-30
-   - [ ] Problems chapter 7 (7.1 - 7.6)
-   - [ ] Problems chapter 11 (11.1 - 11.5)
+   - [ ] Problems chapter 7
+   - [ ] Problems chapter 11
 4. First Order Systems
    - [ ] Reading - chapter 8 
    - [ ] Lectures 32-39
-   - [ ] Problems chapter 8 (8.1 - 8.4)
+   - [ ] Problems chapter 8
 
 
 ## Textbook
