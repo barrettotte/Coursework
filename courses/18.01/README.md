@@ -41,6 +41,8 @@ Textbook: [Calculus and Analytic Geometry](https://isbnsearch.org/isbn/978087150
 
 
 ## Textbook
+Textbook: [Calculus and Analytic Geometry](https://isbnsearch.org/isbn/9780871503237)
+
 | Chapter | Title                                      |
 | ------- | ------------------------------------------ | 
 | 1       | Functions                                  |
@@ -53,6 +55,15 @@ Textbook: [Calculus and Analytic Geometry](https://isbnsearch.org/isbn/978087150
 | 8       | Techniques of Integration                  |
 | 9       | Sequences and Series                       |
 | 10      | Polar Coordinates and Parametric Equations |
+|    | **(Course ends here)**  |
+| 11 | Conic Sections |
+| 12 | Vectors |
+| 13 | Vector-Valued Functions |
+| 14 | Multivariate Functions |
+| 15 | The Differential Calculus of Multivariate Functions |
+| 16 | Integral Calculus of Multivariate Functions |
+| 17 | Line and Surface Integrals |
+| 18 | Ordinary Differential Equations |
 
 
 ## References

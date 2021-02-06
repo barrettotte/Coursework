@@ -32,7 +32,18 @@ Textbook: [Calculus 7e James Stewart](https://isbnsearch.org/isbn/9780871503237)
 
 ## Textbook
 | Chapter | Title                              |
-| ------- | ---------------------------------- | 
+| ------- | ---------------------------------- |
+| 1 | Functions and Limits |
+| 2 | Derivatives |
+| 3 | Applications of Differentiation |
+| 4 | Integrals |
+| 5 | Applications of Integrals |
+| 6 | Inverse Functions |
+| 7 | Techniques of Integration |
+| 8 | Further Applications of Integration |
+| 9 | Differential Equations |
+| 10 | Parametric Equations and Polar Coordinates |
+|    | **(Course starts here)** |
 | 12      | Vectors and the Geometry of Space  |
 | 13      | Vector Functions                   |
 | 14      | Partial Derivatives                |

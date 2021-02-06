@@ -2,8 +2,6 @@
 
 [Course Home](https://ocw.mit.edu/courses/mathematics/18-03-differential-equations-spring-2010/index.htm)
 
-Textbook: [Differential Equations with Boundary-Value Problems](https://isbnsearch.org/isbn/9780495108368)
-
 
 ## Course Completion
 1. First-order Differential Equations
@@ -29,6 +27,8 @@ Textbook: [Differential Equations with Boundary-Value Problems](https://isbnsear
 
 
 ## Textbook
+[Differential Equations with Boundary-Value Problems](https://isbnsearch.org/isbn/9780495108368)
+
 | Chapter | Title |
 | ---- | ---- | 
 | 1 | Introduction to Differential Equations |
@@ -42,6 +42,7 @@ Textbook: [Differential Equations with Boundary-Value Problems](https://isbnsear
 | 9 | Numerical Solutions of Ordinary Differential Equations | 
 | 10 | Plane Autonomous Systems |
 | 11 | Orthogonal Functions and Fourier Series |
+| | **Course ends here** |
 | 12 | Boundary-Value Problems in Rectangular Coordinates |
 | 13 | Boundary-Value Problems in Other Coordinate Systems |
 | 14 | Integral Transforms |

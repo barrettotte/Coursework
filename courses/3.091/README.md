@@ -2,9 +2,6 @@
 
 [Course Home](https://ocw.mit.edu/courses/materials-science-and-engineering/3-091-introduction-to-solid-state-chemistry-fall-2018/)
 
-Textbook: 
-- [General Chemistry: Principles, Patterns, and Applications](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/index.html)
-
 I couldn't do a lot of the assigned problems because there were no solution sets to check answers.
 Additionally, the textbook was not consitent on providing answers to odd-numbered questions.
 So, I did what I could, I'll probably have to revisit things in the future if I want a better understanding.
@@ -42,3 +39,34 @@ So, those sections were skipped over...they should be covered in a materials sci
    - [x] Problem set J (26) - Kinetics and Reactions
    - [x] Reading K - 4.6, 8.7, 16.1, 19.1-19.2, 19.5, 19.7
    - [x] Problem set K (27-29) - Aqueous Solutions and Acids/Bases
+
+
+## Textbook
+[General Chemistry: Principles, Patterns, and Applications](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/index.html)
+
+| Chapter | Title |
+| ---- | ---- | 
+| 1 | Introduction to Chemistry |
+| 2 | Molecules, Ions, and Chemical Formulas |
+| 3 | Chemical Reactions |
+| 4 | Reactions in Aqueous Solutions |
+| 5 | Enery Changes in Chemical Reactions |
+| 6 | The Structure of Atoms |
+| 7 | The Periodic Table and Periodic Trends |
+| 8 | Ionic versus Covalent Bonding |
+| 9 | Molecular Geometry and Covalent Bonding Models |
+| 10 | Gases |
+| 11 | Liquids |
+| 12 | Solids |
+| 13 | Solutions |
+| 14 | Chemical Kinetics |
+| 15 | Chemical Equilibrium |
+| 16 | Aqueous Acid-Base Equilibriums |
+| 17 | Solubility and Complexation Equilibriums |
+| 18 | Chemical Thermodynamics |
+| 19 | Electrochemistry |
+| 20 | Nuclear Chemistry |
+| 21 | Periodic Trends and the s-Block Elements |
+| 22 | The p-Block Elements |
+| 23 | The d-Block Elements |
+| 24 | Organic Compounds |
