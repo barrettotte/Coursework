@@ -12,11 +12,10 @@ Textbook: [Differential Equations with Boundary-Value Problems](https://isbnsear
    - [x] Problems chapter 1
    - [x] Problems chapter 2
    - [x] Problems chapter 3
-2. Second-order Linear Equations
-   - [ ] Reading - chapters 4-6
-   - [ ] Lectures 11-18
-   - [ ] Problems chapter 4
-   - [ ] Problems chapter 5
+2. Higher-order Linear Equations
+   - [x] Reading - chapters 4.1-4.6, 6
+   - [x] Lectures 11-18
+   - [ ] Problems chapter 4.1-4.6
    - [ ] Problems chapter 6
 3. Fourier Series
    - [ ] Reading - chapters 7,11
