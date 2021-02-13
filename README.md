@@ -61,7 +61,7 @@ Generally I tried not spend over twenty dollars per book (this was not always po
 
 | ISBN-13 | Title | Author |
 | ---- | ---- | ---- |
-| [9780871503237](https://isbnsearch.org/isbn/9780871503237) | Calculus and Analytic Geometry | Faires/Faires |
+| [9780871503237](https://isbnsearch.org/isbn/9780871503237) | Calculus and Analytic Geometry | Faires, Faires |
 | [9780538497817](https://isbnsearch.org/isbn/9780538497817) | Calculus, 7th Edition | Stewart |
-| [9780805338034](https://isbnsearch.org/isbn/9780805338034) | Chemistry: Principles, Patterns, And Applications | Averill/Eldredge |
-| [9780495108368](https://isbnsearch.org/isbn/9780495108368) | Differential Equations with Boundary-Value Problems | Zill/Cullen |
+| [9780805338034](https://isbnsearch.org/isbn/9780805338034) | Chemistry: Principles, Patterns, And Applications | Averill, Eldredge |
+| [9780495108368](https://isbnsearch.org/isbn/9780495108368) | Differential Equations with Boundary-Value Problems | Zill, Cullen |
