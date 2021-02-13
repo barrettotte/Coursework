@@ -1,6 +1,6 @@
 # Coursework
 
-Coursework for various courses from [MIT OCW](https://ocw.mit.edu/).
+Coursework for various courses from [MIT OCW](https://ocw.mit.edu/) and self-studying textbooks.
 
 My notes are taken in a separate repository with other topics (currently private).
 
@@ -24,11 +24,11 @@ For each section/chapter of each course I did the following:
 Sometimes courses wouldn't have any solutions to check my assignments against. So, the course would pretty much
 just be a guide to what I was supposed to learn from the assigned textbook. I would just use the textbook's
 odd-numbered answers to check my work.
+Additionally, sometimes an assigned textbook was way too expensive. So I'd pick another somewhat equivalent
+book to go through instead.
 
 While it would be cool to sit down and take years to rigorously go through everything A-Z, its just not practical.
-There's a fine line between being pragmatic and having an illusion of competence with what I'm learning.
-I'm sure that some courses I stayed on the illusion side and some I remained pragmatic.
-On top of learning new material I am also still learning how to learn properly.
+As long as I can learn some material and do a few practice problems, then I'm satisfied.
 
 
 ## Homebrew Degrees
@@ -47,17 +47,17 @@ By no means do I think these are equivalent to an actual degree.
 | 2 | [MIT 18.01](https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006) | [Single Variable Calculus](courses/18.01) | Mathematics | Undergraduate |
 | 3 | [MIT 18.02](https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007) | [Multivariable Calculus](courses/18.02) | Mathematics | Undergraduate |
 | 4 | [MIT 3.091](https://ocw.mit.edu/courses/materials-science-and-engineering/3-091-introduction-to-solid-state-chemistry-fall-2018/) | [Introduction to Solid State Chemistry](courses/3.091) | Materials Science and Engineering | Undergraduate |
+| 5 | [MIT 18.03](https://ocw.mit.edu/courses/mathematics/18-03-differential-equations-spring-2010/) | [Differential Equations](courses/18.03) | Mathematics | Undergraduate |
 
 
 ### In Progress
 | Sequence | Link | Title | Discipline | Level |
 | ---- | ---- | ----- | ---------- | ----- |
-| 5 | [MIT 18.03](https://ocw.mit.edu/courses/mathematics/18-03-differential-equations-spring-2010/) | [Differential Equations](courses/18.03) | Mathematics | Undergraduate |
 
 
 ## Books
 A really basic list of cheap used books I bought to supplement courses.
-Generally I tried not spend over twenty dollars per book.
+Generally I tried not spend over twenty dollars per book (this was not always possible though).
 
 | ISBN-13 | Title | Author |
 | ---- | ---- | ---- |

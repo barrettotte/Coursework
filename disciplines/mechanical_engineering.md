@@ -13,12 +13,12 @@ The courses I took for studying mechanical engineering.
 | 2 | [MIT 18.01](https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006) | [Single Variable Calculus](courses/18.01) | Mathematics | Undergraduate |
 | 3 | [MIT 18.02](https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007) | [Multivariable Calculus](courses/18.02) | Mathematics | Undergraduate |
 | 4 | [MIT 3.091](https://ocw.mit.edu/courses/materials-science-and-engineering/3-091-introduction-to-solid-state-chemistry-fall-2018/) | [Introduction to Solid State Chemistry](courses/3.091) | Materials Science and Engineering | Undergraduate |
+| 5 | [MIT 18.03](https://ocw.mit.edu/courses/mathematics/18-03-differential-equations-spring-2010/) | [Differential Equations]() | Mathematics | Undergraduate |
 
 
 ### To Do
 | Sequence | Link | Title | Discipline | Level |
 | ---- | ---- | ----- | ---------- | ----- |
-| 5 | [MIT 18.03](https://ocw.mit.edu/courses/mathematics/18-03-differential-equations-spring-2010/) | [Differential Equations]() | Mathematics | Undergraduate |
 | 6 | [MIT 8.012](https://ocw.mit.edu/courses/physics/8-012-physics-i-classical-mechanics-fall-2008) | [Physics I - Classical Mechanics]() | Physics | Undergraduate |
 | 7 | [MIT 8.022](https://ocw.mit.edu/courses/physics/8-022-physics-ii-electricity-and-magnetism-fall-2002) | [Physics II - Electricity and Magnetism]() | Physics | Undergraduate |
 | 8 | [MIT 8.03](https://ocw.mit.edu/courses/physics/8-03-physics-iii-spring-2003/) | [Physics III - Vibrations and Waves]() | Physics | Undergraduate |

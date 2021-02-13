@@ -13,17 +13,13 @@
 2. Higher-order Linear Equations
    - [x] Reading - chapters 4.1-4.6, 6
    - [x] Lectures 11-18
-   - [ ] Problems chapter 4.1-4.6
-   - [ ] Problems chapter 6
+   - [x] Problems chapter 4.1-4.6
+   - [x] Problems chapter 6
 3. Fourier Series
-   - [ ] Reading - chapters 7,11
-   - [ ] Lectures 20-30
-   - [ ] Problems chapter 7
-   - [ ] Problems chapter 11
-4. First Order Systems
-   - [ ] Reading - chapter 8 
-   - [ ] Lectures 32-39
-   - [ ] Problems chapter 8
+   - [x] Reading - chapters 7, 11.2, 11.3
+   - [x] Lectures 20-30
+   - [x] Problems chapter 7
+   - [x] Problems chapter 11.2, 11.3
 
 
 ## Textbook
