@@ -37,7 +37,7 @@ By no means do I think these are equivalent to an actual degree.
 
 | Title                                                           | Course Count |
 | --------------------------------------------------------------- | ------------ |
-| [Mechanical Engineering](disciplines/mechanical_engineering.md) | 32 |
+| [Mechanical Engineering](disciplines/mechanical_engineering.md) | 30 |
 
 
 ## Completed Courses
@@ -59,9 +59,9 @@ By no means do I think these are equivalent to an actual degree.
 A really basic list of cheap used books I bought to supplement courses.
 Generally I tried not spend over twenty dollars per book.
 
-| ISBN-13 | Title |
-| ---- | ---- |
-| [9780871503237](https://isbnsearch.org/isbn/9780871503237) | Calculus and Analytic Geometry |
-| [9780538497817](https://isbnsearch.org/isbn/9780538497817) | Calculus, 7th Edition |
-| [9780805338034](https://isbnsearch.org/isbn/9780805338034) | Chemistry: Principles, Patterns, And Applications |
-| [9780495108368](https://isbnsearch.org/isbn/9780495108368) | Differential Equations with Boundary-Value Problems |
+| ISBN-13 | Title | Author |
+| ---- | ---- | ---- |
+| [9780871503237](https://isbnsearch.org/isbn/9780871503237) | Calculus and Analytic Geometry | Faires/Faires |
+| [9780538497817](https://isbnsearch.org/isbn/9780538497817) | Calculus, 7th Edition | Stewart |
+| [9780805338034](https://isbnsearch.org/isbn/9780805338034) | Chemistry: Principles, Patterns, And Applications | Averill/Eldredge |
+| [9780495108368](https://isbnsearch.org/isbn/9780495108368) | Differential Equations with Boundary-Value Problems | Zill/Cullen |
