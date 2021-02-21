@@ -24,7 +24,7 @@ For each section/chapter of each course I did the following:
 Sometimes courses wouldn't have any solutions to check my assignments against. So, the course would pretty much
 just be a guide to what I was supposed to learn from the assigned textbook. I would just use the textbook's
 odd-numbered answers to check my work.
-Additionally, sometimes an assigned textbook was way too expensive. So I'd pick another somewhat equivalent
+Sometimes an assigned textbook was way too expensive. So I'd pick another somewhat equivalent
 book to go through instead.
 
 While it would be cool to sit down and take years to rigorously go through everything A-Z, its just not practical.
@@ -53,6 +53,7 @@ By no means do I think these are equivalent to an actual degree.
 ### In Progress
 | Sequence | Link | Title | Discipline | Level |
 | ---- | ---- | ----- | ---------- | ----- |
+| 6 | [MIT 8.01L](https://ocw.mit.edu/courses/physics/8-01l-physics-i-classical-mechanics-fall-2005) | [Physics I - Classical Mechanics](courses/8.01L) | Physics | Undergraduate |
 
 
 ## Books
@@ -65,3 +66,4 @@ Generally I tried not spend over twenty dollars per book (this was not always po
 | [9780538497817](https://isbnsearch.org/isbn/9780538497817) | Calculus, 7th Edition | Stewart |
 | [9780805338034](https://isbnsearch.org/isbn/9780805338034) | Chemistry: Principles, Patterns, And Applications | Averill, Eldredge |
 | [9780495108368](https://isbnsearch.org/isbn/9780495108368) | Differential Equations with Boundary-Value Problems | Zill, Cullen |
+| [9780534408428](https://isbnsearch.org/isbn/9780534408428) | Physics for Scientists and Engineers | Serway, Jewett |

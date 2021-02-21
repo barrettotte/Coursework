@@ -19,8 +19,8 @@ The courses I took for studying mechanical engineering.
 ### To Do
 | Sequence | Link | Title | Discipline | Level |
 | ---- | ---- | ----- | ---------- | ----- |
-| 6 | [MIT 8.012](https://ocw.mit.edu/courses/physics/8-012-physics-i-classical-mechanics-fall-2008) | [Physics I - Classical Mechanics]() | Physics | Undergraduate |
-| 7 | [MIT 8.022](https://ocw.mit.edu/courses/physics/8-022-physics-ii-electricity-and-magnetism-fall-2002) | [Physics II - Electricity and Magnetism]() | Physics | Undergraduate |
+| 6 | [MIT 8.01L](https://ocw.mit.edu/courses/physics/8-01l-physics-i-classical-mechanics-fall-2005/) | [Physics I - Classical Mechanics](courses/8.01L) | Physics | Undergraduate |
+| 7 | [MIT 8.02](https://ocw.mit.edu/courses/physics/8-02-physics-ii-electricity-and-magnetism-spring-2007/) | [Physics II - Electricity and Magnetism]() | Physics | Undergraduate |
 | 8 | [MIT 8.03](https://ocw.mit.edu/courses/physics/8-03-physics-iii-spring-2003/) | [Physics III - Vibrations and Waves]() | Physics | Undergraduate |
 | 9 | [MIT 5.61](https://ocw.mit.edu/courses/chemistry/5-61-physical-chemistry-fall-2017) | [Physical Chemistry I]() | Chemistry | Undergraduate |
 | 10 | [MIT 2.086](https://ocw.mit.edu/courses/mechanical-engineering/2-086-numerical-computation-for-mechanical-engineers-fall-2014) | [Numerical Computation for Mechanical Engineers]() | Mechanical Engineering | Undergraduate |

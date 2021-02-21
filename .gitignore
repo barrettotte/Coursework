@@ -3,9 +3,7 @@ octave-workspace
 downloaded/
 .ipynb_checkpoints
 
-scratchpad.md
-scratchpad.pdf
-scratchpad.tex
+scratchpad.*
 
 # LaTeX
 *.aux
