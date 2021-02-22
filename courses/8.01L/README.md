@@ -11,10 +11,10 @@
    - [x] Problems chapter 2
    - [x] Problems chapter 3
 2. Part II
-   - [ ] Read chapters 4-6
-   - [ ] Problems chapter 4
-   - [ ] Problems chapter 5
-   - [ ] Problems chapter 6
+   - [x] Read chapters 4-6
+   - [x] Problems chapter 4
+   - [x] Problems chapter 5
+   - [x] Problems chapter 6
 3. Part III
    - [ ] Read chapters 7-9
    - [ ] Problems chapter 7
