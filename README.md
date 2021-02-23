@@ -6,11 +6,13 @@ My notes are taken in a separate repository with other topics (currently private
 
 
 ## Purpose
-Going through these courses is just my way of trying to become more familiar with things outside of programming. 
+Going through these courses is just my way of trying to become more familiar with things outside of the world of programming. 
 In no way am I a master of anything in these courses or even close to it. 
 
 If I learn a handful of things by the end of a course, then I accomplished my goal.
 I just really enjoy learning new things.
+
+Ultimately, I'd love to be familiar with a little bit of everything from each discipline.
 
 
 ## Coursework
@@ -27,16 +29,18 @@ odd-numbered answers to check my work.
 Sometimes an assigned textbook was way too expensive. So I'd pick another somewhat equivalent
 book to go through instead.
 
-While it would be cool to sit down and take years to rigorously go through everything A-Z, its just not practical.
-As long as I can learn some material and do a few practice problems, then I'm satisfied.
+While it would be cool/impressive to sit down and take years to rigorously go through everything A-Z, its just not practical.
+As long as I can learn some material and work through a few practice problems for each concept, then I'm satisfied.
 
 
-## Homebrew Degrees
-When I say "homebrew degree" I just mean a list of courses that make sense to take together.
-By no means do I think these are equivalent to an actual degree.
+## Disciplines
+Courses split by discipline, kind of like a "homebrew" degree plan.
+There are duplicate entries between plans since some disciplines share courses.
 
-| Title                                                           | Course Count |
-| --------------------------------------------------------------- | ------------ |
+| Title | Course Count |
+| ---- | ---- |
+| Computer Science | TODO |
+| Electrical Engineering | TODO |
 | [Mechanical Engineering](disciplines/mechanical_engineering.md) | 30 |
 
 
@@ -57,7 +61,7 @@ By no means do I think these are equivalent to an actual degree.
 
 
 ## Books
-A really basic list of cheap used books I bought to supplement courses.
+A really basic list of cheap used books I bought on Amazon or ebay to supplement courses.
 Generally I tried not spend over twenty dollars per book (this was not always possible though).
 
 | ISBN-13 | Title | Author |
