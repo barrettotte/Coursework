@@ -26,7 +26,7 @@ The courses I took for studying mechanical engineering.
 | 10 | [MIT 2.086](https://ocw.mit.edu/courses/mechanical-engineering/2-086-numerical-computation-for-mechanical-engineers-fall-2014) | [Numerical Computation for Mechanical Engineers]() | Mechanical Engineering | Undergraduate |
 | 11 | [MIT 3.012](https://ocw.mit.edu/courses/materials-science-and-engineering/3-012-fundamentals-of-materials-science-fall-2005/) | [Fundamentals of Materials Science]() | Materials Science and Engineering | Undergraduate |
 | 12 | [MIT 3.032](https://ocw.mit.edu/courses/materials-science-and-engineering/3-032-mechanical-behavior-of-materials-fall-2007/) | [Mechanical Behavior of Materials]() | Materials Science and Engineering | Undergraduate |
-| 13 | [ISBN-13 9789353165741](https://isbnsearch.org/isbn/9353165741) | [Thermodynamics]() | Mechanical Engineering | Textbook |
+| 13 | [ISBN-13 9789353165741](https://isbnsearch.org/isbn/9353165741) | [Thermodynamics]() | Mechanical Engineering | Undergraduate |
 | 14 | [MIT 2.06](https://ocw.mit.edu/courses/mechanical-engineering/2-06-fluid-dynamics-spring-2013/) | [Fluid Dynamics]() | Mechanical Engineering | Undergraduate |
 | 15 | [MIT 2.051](https://ocw.mit.edu/courses/mechanical-engineering/2-051-introduction-to-heat-transfer-fall-2015/) | [Introduction to Heat Transfer]() | Mechanical Engineering | Undergraduate |
 | 16 | [MIT 2.011](https://ocw.mit.edu/courses/mechanical-engineering/2-011-introduction-to-ocean-science-and-engineering-spring-2006) | [Introduction to Ocean Science and Engineering]() | Mechanical Engineering | Undergraduate |
