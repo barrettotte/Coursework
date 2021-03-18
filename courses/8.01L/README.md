@@ -16,15 +16,15 @@
    - [x] Problems chapter 5
    - [x] Problems chapter 6
 3. Part III
-   - [ ] Read chapters 7-9
-   - [ ] Problems chapter 7
-   - [ ] Problems chapter 8
-   - [ ] Problems chapter 9
+   - [x] Read chapters 7-9
+   - [x] Problems chapter 7
+   - [x] Problems chapter 8
+   - [x] Problems chapter 9
 4. Part IV
-   - [ ] Read chapters 10-12
-   - [ ] Problems chapter 10
-   - [ ] Problems chapter 11
-   - [ ] Problems chapter 12
+   - [x] Read chapters 10-12
+   - [x] Problems chapter 10
+   - [x] Problems chapter 11
+   - [x] Problems chapter 12
 5. Part V
    - [ ] Read chapters 13-14
    - [ ] Problems chapter 13
