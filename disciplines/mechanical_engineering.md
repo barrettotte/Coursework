@@ -9,17 +9,17 @@ The courses I took for studying mechanical engineering.
 ### Completed
 | Sequence | Link | Title | Discipline | Level |
 | ---- | ---- | ----- | ---------- | ----- |
-| 1 | [MIT 6.057](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-057-introduction-to-matlab-january-iap-2019) | [Introduction to MATLAB](courses/6.057) | Electrical Engineering and Computer Science | Undergraduate |
-| 2 | [MIT 18.01](https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006) | [Single Variable Calculus](courses/18.01) | Mathematics | Undergraduate |
-| 3 | [MIT 18.02](https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007) | [Multivariable Calculus](courses/18.02) | Mathematics | Undergraduate |
-| 4 | [MIT 3.091](https://ocw.mit.edu/courses/materials-science-and-engineering/3-091-introduction-to-solid-state-chemistry-fall-2018/) | [Introduction to Solid State Chemistry](courses/3.091) | Materials Science and Engineering | Undergraduate |
-| 5 | [MIT 18.03](https://ocw.mit.edu/courses/mathematics/18-03-differential-equations-spring-2010/) | [Differential Equations]() | Mathematics | Undergraduate |
+| 1 | [MIT 6.057](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-057-introduction-to-matlab-january-iap-2019) | [Introduction to MATLAB](courses/intro-to-MATLAB) | Electrical Engineering and Computer Science | Undergraduate |
+| 2 | [MIT 18.01](https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006) | [Single Variable Calculus](courses/single-variable-calculus) | Mathematics | Undergraduate |
+| 3 | [MIT 18.02](https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007) | [Multivariable Calculus](courses/multivariable-calculus) | Mathematics | Undergraduate |
+| 4 | [MIT 3.091](https://ocw.mit.edu/courses/materials-science-and-engineering/3-091-introduction-to-solid-state-chemistry-fall-2018/) | [Introduction to Solid State Chemistry](courses/intro-to-solid-state-chemistry) | Materials Science and Engineering | Undergraduate |
+| 5 | [MIT 18.03](https://ocw.mit.edu/courses/mathematics/18-03-differential-equations-spring-2010/) | [Differential Equations](courses/differential-equations) | Mathematics | Undergraduate |
 
 
 ### To Do
 | Sequence | Link | Title | Discipline | Level |
 | ---- | ---- | ----- | ---------- | ----- |
-| 6 | [MIT 8.01L](https://ocw.mit.edu/courses/physics/8-01l-physics-i-classical-mechanics-fall-2005/) | [Physics I - Classical Mechanics](courses/8.01L) | Physics | Undergraduate |
+| 6 | [MIT 8.01L](https://ocw.mit.edu/courses/physics/8-01l-physics-i-classical-mechanics-fall-2005) | [Physics I - Classical Mechanics](courses/physics-I-classical-mechanics) | Physics | Undergraduate |
 | 7 | [MIT 8.02](https://ocw.mit.edu/courses/physics/8-02-physics-ii-electricity-and-magnetism-spring-2007/) | [Physics II - Electricity and Magnetism]() | Physics | Undergraduate |
 | 8 | [MIT 8.03](https://ocw.mit.edu/courses/physics/8-03-physics-iii-spring-2003/) | [Physics III - Vibrations and Waves]() | Physics | Undergraduate |
 | 9 | [MIT 5.61](https://ocw.mit.edu/courses/chemistry/5-61-physical-chemistry-fall-2017) | [Physical Chemistry I]() | Chemistry | Undergraduate |
