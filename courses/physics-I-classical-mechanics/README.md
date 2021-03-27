@@ -2,7 +2,6 @@
 
 [MIT 8.01L](https://ocw.mit.edu/courses/physics/8-01l-physics-i-classical-mechanics-fall-2005/)
 
-
 ## Course Completion
 
 1. Part I
@@ -26,12 +25,12 @@
    - [x] Problems chapter 11
    - [x] Problems chapter 12
 5. Part V
-   - [ ] Read chapters 13-14
-   - [ ] Problems chapter 13
-   - [ ] Problems chapter 14
-
+   - [x] Read chapters 13-14
+   - [x] Problems chapter 13
+   - [x] Problems chapter 14
 
 ## Textbook
+
 [Physics for Scientists and Engineers](https://isbnsearch.org/isbn/9780534408428)
 
 | Chapter | Title |

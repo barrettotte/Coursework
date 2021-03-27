@@ -5,8 +5,8 @@ The courses I took for studying mechanical engineering.
 
 ## Courses
 
-
 ### Completed
+
 | Sequence | Link | Title | Discipline | Level |
 | ---- | ---- | ----- | ---------- | ----- |
 | 1 | [MIT 6.057](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-057-introduction-to-matlab-january-iap-2019) | [Introduction to MATLAB](courses/intro-to-MATLAB) | Electrical Engineering and Computer Science | Undergraduate |
@@ -14,13 +14,13 @@ The courses I took for studying mechanical engineering.
 | 3 | [MIT 18.02](https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007) | [Multivariable Calculus](courses/multivariable-calculus) | Mathematics | Undergraduate |
 | 4 | [MIT 3.091](https://ocw.mit.edu/courses/materials-science-and-engineering/3-091-introduction-to-solid-state-chemistry-fall-2018/) | [Introduction to Solid State Chemistry](courses/intro-to-solid-state-chemistry) | Materials Science and Engineering | Undergraduate |
 | 5 | [MIT 18.03](https://ocw.mit.edu/courses/mathematics/18-03-differential-equations-spring-2010/) | [Differential Equations](courses/differential-equations) | Mathematics | Undergraduate |
-
+| 6 | [MIT 8.01L](https://ocw.mit.edu/courses/physics/8-01l-physics-i-classical-mechanics-fall-2005) | [Physics I - Classical Mechanics](courses/physics-I-classical-mechanics) | Physics | Undergraduate |
 
 ### To Do
+
 | Sequence | Link | Title | Discipline | Level |
 | ---- | ---- | ----- | ---------- | ----- |
-| 6 | [MIT 8.01L](https://ocw.mit.edu/courses/physics/8-01l-physics-i-classical-mechanics-fall-2005) | [Physics I - Classical Mechanics](courses/physics-I-classical-mechanics) | Physics | Undergraduate |
-| 7 | [MIT 8.02](https://ocw.mit.edu/courses/physics/8-02-physics-ii-electricity-and-magnetism-spring-2007/) | [Physics II - Electricity and Magnetism]() | Physics | Undergraduate |
+| 7 | [MIT 8.02](https://ocw.mit.edu/courses/physics/8-02-physics-ii-electricity-and-magnetism-spring-2007/) | [Physics II - Electricity and Magnetism](courses/physics-II-electricity-and-magnetism) | Physics | Undergraduate |
 | 8 | [MIT 8.03](https://ocw.mit.edu/courses/physics/8-03-physics-iii-spring-2003/) | [Physics III - Vibrations and Waves]() | Physics | Undergraduate |
 | 9 | [MIT 5.61](https://ocw.mit.edu/courses/chemistry/5-61-physical-chemistry-fall-2017) | [Physical Chemistry I]() | Chemistry | Undergraduate |
 | 10 | [MIT 2.086](https://ocw.mit.edu/courses/mechanical-engineering/2-086-numerical-computation-for-mechanical-engineers-fall-2014) | [Numerical Computation for Mechanical Engineers]() | Mechanical Engineering | Undergraduate |
@@ -44,4 +44,3 @@ The courses I took for studying mechanical engineering.
 | 28 | [MIT 2.008](https://ocw.mit.edu/courses/mechanical-engineering/2-008-design-and-manufacturing-ii-spring-2004) | [Design and Manufacturing II]() | Mechanical Engineering | Undergraduate |
 | 29 | [MIT 2.61](https://ocw.mit.edu/courses/mechanical-engineering/2-61-internal-combustion-engines-spring-2017) | [Internal Combustion Engines]() | Mechanical Engineering | Graduate |
 | 30 | [MIT 22.01](https://ocw.mit.edu/courses/nuclear-engineering/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-fall-2016) | [Introduction to Nuclear Engineering]() | Nuclear Science and Engineering | Undergraduate |
-
