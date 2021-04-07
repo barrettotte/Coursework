@@ -1,8 +1,6 @@
 # 18.02 - Multivariable Calculus
 
-[Course Home](https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/index.htm)
-
-Textbook: [Calculus 7e James Stewart](https://isbnsearch.org/isbn/9780871503237)
+[MIT 18.02](https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/index.htm)
 
 ## Course Completion
 
@@ -31,6 +29,9 @@ Textbook: [Calculus 7e James Stewart](https://isbnsearch.org/isbn/9780871503237)
 
 
 ## Textbook
+
+[Calculus 7e James Stewart](https://isbnsearch.org/isbn/9780871503237)
+
 | Chapter | Title                              |
 | ------- | ---------------------------------- |
 | 1 | Functions and Limits |
@@ -49,7 +50,3 @@ Textbook: [Calculus 7e James Stewart](https://isbnsearch.org/isbn/9780871503237)
 | 14      | Partial Derivatives                |
 | 15      | Multiple Integrals                 |
 | 16      | Vector Calculus                    |
-
-
-## References
-- https://tutorial.math.lamar.edu/classes/calciii/calciii.aspx

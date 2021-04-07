@@ -1,6 +1,6 @@
 # Introduction to Solid State Chemistry
 
-[Course Home](https://ocw.mit.edu/courses/materials-science-and-engineering/3-091-introduction-to-solid-state-chemistry-fall-2018/)
+[MIT 3.091](https://ocw.mit.edu/courses/materials-science-and-engineering/3-091-introduction-to-solid-state-chemistry-fall-2018/)
 
 I couldn't do a lot of the assigned problems because there were no solution sets to check answers.
 Additionally, the textbook was not consitent on providing answers to odd-numbered questions.

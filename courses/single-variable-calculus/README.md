@@ -1,10 +1,9 @@
-# 18.01 - Single Variable Calculus
+# Single Variable Calculus
 
-[Course Home](https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/)
-
-Textbook: [Calculus and Analytic Geometry](https://isbnsearch.org/isbn/9780871503237)
+[MIT 18.01](https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/)
 
 ## Course Completion
+
 1. Derivatives
    - [x] Lecture notes - Sessions 1-8
    - [x] Read Chapter 1
@@ -41,7 +40,8 @@ Textbook: [Calculus and Analytic Geometry](https://isbnsearch.org/isbn/978087150
 
 
 ## Textbook
-Textbook: [Calculus and Analytic Geometry](https://isbnsearch.org/isbn/9780871503237)
+
+[Calculus and Analytic Geometry](https://isbnsearch.org/isbn/9780871503237)
 
 | Chapter | Title                                      |
 | ------- | ------------------------------------------ | 
@@ -64,7 +64,3 @@ Textbook: [Calculus and Analytic Geometry](https://isbnsearch.org/isbn/978087150
 | 16 | Integral Calculus of Multivariate Functions |
 | 17 | Line and Surface Integrals |
 | 18 | Ordinary Differential Equations |
-
-
-## References
-- 

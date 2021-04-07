@@ -1,4 +1,4 @@
-# 8.02 - Physics II: Electricity and Magnetism
+# Physics II: Electricity and Magnetism
 
 [MIT 8.02](https://ocw.mit.edu/courses/physics/8-02-physics-ii-electricity-and-magnetism-spring-2007/)
 

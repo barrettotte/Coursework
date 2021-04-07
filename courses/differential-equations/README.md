@@ -1,6 +1,6 @@
-# 18.03 - Differential Equations
+# Differential Equations
 
-[Course Home](https://ocw.mit.edu/courses/mathematics/18-03-differential-equations-spring-2010/index.htm)
+[MIT 18.03](https://ocw.mit.edu/courses/mathematics/18-03-differential-equations-spring-2010/index.htm)
 
 
 ## Course Completion
