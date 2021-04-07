@@ -1,6 +1,6 @@
 # Fluid Dynamics
 
-[MIT 2.06](https://ocw.mit.edu/courses/mechanical-engineering/2-06-fluid-dynamics-spring-2013/)
+Loosely based on [MIT 2.06](https://ocw.mit.edu/courses/mechanical-engineering/2-06-fluid-dynamics-spring-2013/)
 
 ## Course Completion
 

@@ -1,6 +1,6 @@
-# 18.02 - Multivariable Calculus
+# Multivariable Calculus
 
-[MIT 18.02](https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/index.htm)
+Loosely based on [MIT 18.02](https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/index.htm)
 
 ## Course Completion
 

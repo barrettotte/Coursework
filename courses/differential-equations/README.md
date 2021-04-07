@@ -1,9 +1,9 @@
 # Differential Equations
 
-[MIT 18.03](https://ocw.mit.edu/courses/mathematics/18-03-differential-equations-spring-2010/index.htm)
-
+Loosely based on [MIT 18.03](https://ocw.mit.edu/courses/mathematics/18-03-differential-equations-spring-2010/index.htm)
 
 ## Course Completion
+
 1. First-order Differential Equations
    - [x] Reading - chapters 1-3
    - [x] Lectures 1-9
@@ -23,6 +23,7 @@
 
 
 ## Textbook
+
 [Differential Equations with Boundary-Value Problems](https://isbnsearch.org/isbn/9780495108368)
 
 | Chapter | Title |
@@ -43,7 +44,3 @@
 | 13 | Boundary-Value Problems in Other Coordinate Systems |
 | 14 | Integral Transforms |
 | 15 | Numerical Solutions of Partial Differential Equations |
-
-
-## References
-- https://tutorial.math.lamar.edu/Classes/DE/DE.aspx

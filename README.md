@@ -1,8 +1,8 @@
 # Coursework
 
-Coursework for various courses from [MIT OCW](https://ocw.mit.edu/) and self-studying textbooks.
+Coursework for self-studying mechanical engineering, electrical engineering, and computer science.
 
-My notes are taken in a separate repository with other topics (currently private).
+My notes are taken in a separate repository with other subjects (currently private).
 
 ## Purpose
 
@@ -16,18 +16,14 @@ Ultimately, I'd love to be familiar with a little bit of everything from each di
 
 ## Coursework
 
-For each section/chapter of each course I did the following:
-- Read (preferred) or watch lectures
-- Read suggested or other relevant textbook
-- Complete some exercises. Either:
-  - Some of the instructor's suggested exercises or homework (only if they show expected final answer).
-  - Some exercises that seemed to demonstrate new concepts that were introduced in the section.
+Instead of just reading an entire textbook cover to cover, I try to find an MIT OCW
+course corresponding to the material covered in each textbook. Then, I use the MIT OCW syllabus
+as a foundation to make my own shorter/dumb course on the material.
 
-Sometimes courses wouldn't have any solutions to check my assignments against. So, the course would pretty much
-just be a guide to what I was supposed to learn from the assigned textbook. I would just use the textbook's
-odd-numbered answers to check my work.
-Sometimes an assigned textbook was way too expensive. So I'd pick another somewhat equivalent
-book to go through instead.
+For each chapter of a textbook:
+
+- read and take high-level notes
+- complete odd-numbered exercises using notes as reference
 
 While it would be cool/impressive to sit down and take years to rigorously go through everything A-Z, its just not practical.
 As long as I can learn some material and work through a few practice problems for each concept, then I'm satisfied.
@@ -35,7 +31,8 @@ As long as I can learn some material and work through a few practice problems fo
 ## Disciplines
 
 Courses split by discipline, kind of like a "homebrew" degree plan.
-There are duplicate entries between plans since some disciplines share courses.
+These are loosely based on some University of Maryland and MIT undergraduate degree plans.
+Its worth noting that there are duplicate entries between plans since some disciplines share courses.
 
 | Title | Course Count |
 | ---- | ---- |
@@ -43,32 +40,21 @@ There are duplicate entries between plans since some disciplines share courses.
 | Electrical Engineering | TODO |
 | [Mechanical Engineering](disciplines/mechanical_engineering.md) | 30 |
 
-## Completed Courses
+## Courses
 
-| Sequence | Link | Title | Discipline | Level |
+### Completed
+
+| Sequence | Title | Textbook | Discipline | Level |
 | ---- | ---- | ----- | ---------- | ----- |
-| 1 | [MIT 6.057](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-057-introduction-to-matlab-january-iap-2019) | [Introduction to MATLAB](courses/intro-to-MATLAB) | Electrical Engineering and Computer Science | Undergraduate |
-| 2 | [MIT 18.01](https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006) | [Single Variable Calculus](courses/single-variable-calculus) | Mathematics | Undergraduate |
-| 3 | [MIT 18.02](https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007) | [Multivariable Calculus](courses/multivariable-calculus) | Mathematics | Undergraduate |
-| 4 | [MIT 3.091](https://ocw.mit.edu/courses/materials-science-and-engineering/3-091-introduction-to-solid-state-chemistry-fall-2018/) | [Introduction to Solid State Chemistry](courses/intro-to-solid-state-chemistry) | Materials Science and Engineering | Undergraduate |
-| 5 | [MIT 18.03](https://ocw.mit.edu/courses/mathematics/18-03-differential-equations-spring-2010/) | [Differential Equations](courses/differential-equations) | Mathematics | Undergraduate |
-| 6 | [MIT 8.01L](https://ocw.mit.edu/courses/physics/8-01l-physics-i-classical-mechanics-fall-2005) | [Physics I - Classical Mechanics](courses/physics-I-classical-mechanics) | Physics | Undergraduate |
+| 1 | [Introduction to MATLAB](courses/intro-to-MATLAB) | [MIT OCW 6.057](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-057-introduction-to-matlab-january-iap-2019) | Electrical Engineering and Computer Science | Undergraduate |
+| 2 | [Single Variable Calculus](courses/single-variable-calculus) | [Calculus and Analytic Geometry; Faires, Faires](https://isbnsearch.org/isbn/9780871503237) | Mathematics | Undergraduate |
+| 3 | [Multivariable Calculus](courses/multivariable-calculus) | [Calculus, 7th Edition; Stewart](https://isbnsearch.org/isbn/9780538497817) | Mathematics | Undergraduate |
+| 4 | [Introduction to Solid State Chemistry](courses/intro-to-solid-state-chemistry) | [Chemistry: Principles, Patterns, And Applications; Averill, Eldredge](https://isbnsearch.org/isbn/9780805338034) | Materials Science and Engineering | Undergraduate |
+| 5 | [Differential Equations](courses/differential-equations) | [Differential Equations with Boundary-Value Problems; Zill, Cullen](https://isbnsearch.org/isbn/9780495108368) | Mathematics | Undergraduate |
+| 6 | [Physics I - Classical Mechanics](courses/physics-I-classical-mechanics) | [Physics for Scientists and Engineers; Serway, Jewett](https://isbnsearch.org/isbn/9780534408428) | Physics | Undergraduate |
 
 ### In Progress
 
-| Sequence | Link | Title | Discipline | Level |
+| Sequence | Title | Textbook | Discipline | Level |
 | ---- | ---- | ----- | ---------- | ----- |
-| 7 | [MIT 8.02](https://ocw.mit.edu/courses/physics/8-02-physics-ii-electricity-and-magnetism-spring-2007/) | [Physics II - Electricity and Magnetism](courses/physics-II-electricity-and-magnetism) | Physics | Undergraduate |
-
-## Books
-
-A really basic list of cheap used books I bought on Amazon or ebay to supplement courses.
-Generally I tried not spend over twenty dollars per book (this was not always possible though).
-
-| ISBN-13 | Title | Author |
-| ---- | ---- | ---- |
-| [9780871503237](https://isbnsearch.org/isbn/9780871503237) | Calculus and Analytic Geometry | Faires, Faires |
-| [9780538497817](https://isbnsearch.org/isbn/9780538497817) | Calculus, 7th Edition | Stewart |
-| [9780805338034](https://isbnsearch.org/isbn/9780805338034) | Chemistry: Principles, Patterns, And Applications | Averill, Eldredge |
-| [9780495108368](https://isbnsearch.org/isbn/9780495108368) | Differential Equations with Boundary-Value Problems | Zill, Cullen |
-| [9780534408428](https://isbnsearch.org/isbn/9780534408428) | Physics for Scientists and Engineers | Serway, Jewett |
+| 7 | [Physics II - Electricity and Magnetism](courses/physics-II-electricity-and-magnetism) | [Physics for Scientists and Engineers; Serway, Jewett](https://isbnsearch.org/isbn/9780534408428) | Physics | Undergraduate |

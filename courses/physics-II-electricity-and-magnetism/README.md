@@ -1,6 +1,6 @@
 # Physics II: Electricity and Magnetism
 
-[MIT 8.02](https://ocw.mit.edu/courses/physics/8-02-physics-ii-electricity-and-magnetism-spring-2007/)
+Loosely based on [MIT 8.02](https://ocw.mit.edu/courses/physics/8-02-physics-ii-electricity-and-magnetism-spring-2007/)
 
 ## Course Completion
 

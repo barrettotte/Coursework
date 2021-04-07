@@ -1,6 +1,6 @@
 # Fundamentals of Materials Science
 
-[MIT 3.012](https://ocw.mit.edu/courses/materials-science-and-engineering/3-012-fundamentals-of-materials-science-fall-2005/)
+Loosely based on [MIT 3.012](https://ocw.mit.edu/courses/materials-science-and-engineering/3-012-fundamentals-of-materials-science-fall-2005/)
 
 ## Course Completion
 

@@ -1,6 +1,6 @@
 # Physics I: Classical Mechanics
 
-[MIT 8.01L](https://ocw.mit.edu/courses/physics/8-01l-physics-i-classical-mechanics-fall-2005/)
+Loosely based on [MIT 8.01L](https://ocw.mit.edu/courses/physics/8-01l-physics-i-classical-mechanics-fall-2005/)
 
 ## Course Completion
 

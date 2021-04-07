@@ -1,6 +1,6 @@
 # Template
 
-[link](#)
+Loosely based on [MIT link](#)
 
 ## Course Completion
 

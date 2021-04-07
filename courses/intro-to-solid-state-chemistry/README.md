@@ -1,16 +1,9 @@
 # Introduction to Solid State Chemistry
 
-[MIT 3.091](https://ocw.mit.edu/courses/materials-science-and-engineering/3-091-introduction-to-solid-state-chemistry-fall-2018/)
-
-I couldn't do a lot of the assigned problems because there were no solution sets to check answers.
-Additionally, the textbook was not consitent on providing answers to odd-numbered questions.
-So, I did what I could, I'll probably have to revisit things in the future if I want a better understanding.
-
-There was no textbook content for amorphous solids (glasses) or polymers.
-So, those sections were skipped over...they should be covered in a materials science course.
-
+Loosely based on [MIT 3.091](https://ocw.mit.edu/courses/materials-science-and-engineering/3-091-introduction-to-solid-state-chemistry-fall-2018/)
 
 ## Course Completion
+
 1. Unit 1
    - [x] Lectures 1-9
    - [x] Reading A - 1.1-1.7, 7.1, 3.1, 3.3-3.4
@@ -42,6 +35,7 @@ So, those sections were skipped over...they should be covered in a materials sci
 
 
 ## Textbook
+
 [General Chemistry: Principles, Patterns, and Applications](https://saylordotorg.github.io/text_general-chemistry-principles-patterns-and-applications-v1.0/index.html)
 
 | Chapter | Title |

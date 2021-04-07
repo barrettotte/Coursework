@@ -1,6 +1,6 @@
 # Physics III: Vibrations and Waves
 
-[MIT 8.03](https://ocw.mit.edu/courses/physics/8-03-physics-iii-spring-2003/)
+Loosely based on [MIT 8.03](https://ocw.mit.edu/courses/physics/8-03-physics-iii-spring-2003/)
 
 ## Course Completion
 
