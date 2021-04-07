@@ -31,6 +31,8 @@ As long as I can learn some material and work through a few practice problems fo
 ## Disciplines
 
 Courses split by discipline, kind of like a "homebrew" degree plan.
+The disciplines are the ones defined on MIT OCW.
+
 These are loosely based on some University of Maryland and MIT undergraduate degree plans.
 Its worth noting that there are duplicate entries between plans since some disciplines share courses.
 

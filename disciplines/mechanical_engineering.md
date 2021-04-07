@@ -18,7 +18,7 @@ The courses I took for studying mechanical engineering.
 
 ### To Do
 
-| Sequence | Link | Title | Discipline | Level |
+| Sequence | Title | Textbook | Discipline | Level |
 | ---- | ---- | ----- | ---------- | ----- |
 | 7 | [Physics II - Electricity and Magnetism](courses/physics-II-electricity-and-magnetism) | [Physics for Scientists and Engineers; Serway, Jewett](https://isbnsearch.org/isbn/9780534408428) | Physics | Undergraduate |
 
