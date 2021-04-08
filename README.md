@@ -39,7 +39,7 @@ Its worth noting that there are duplicate entries between plans since some disci
 | ---- | ---- |
 | Computer Science | TODO |
 | Electrical Engineering | TODO |
-| [Mechanical Engineering](disciplines/mechanical_engineering.md) | 30 |
+| [Mechanical Engineering](disciplines/mechanical-engineering.md) | 25 |
 
 ## Courses
 
