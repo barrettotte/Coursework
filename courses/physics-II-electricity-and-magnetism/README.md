@@ -5,25 +5,21 @@ Loosely based on [MIT 8.02](https://ocw.mit.edu/courses/physics/8-02-physics-ii-
 ## Course Completion
 
 1. Part I
-   - [ ] Read chapters 23-25
-   - [ ] Problems chapter 23
-   - [ ] Problems chapter 24
-   - [ ] Problems chapter 25
+   - [x] Read chapter 23 and complete exercises
+   - [x] Read chapter 24 and complete exercises
+   - [x] Read chapter 25 and complete exercises
 2. Part II
-   - [ ] Read chapters 26-28
-   - [ ] Problems chapter 26
-   - [ ] Problems chapter 27
-   - [ ] Problems chapter 28
+   - [ ] Read chapter 26 and complete exercises
+   - [ ] Read chapter 27 and complete exercises
+   - [ ] Read chapter 28 and complete exercises
 3. Part III
-   - [ ] Read chapters 29-31
-   - [ ] Problems chapter 29
-   - [ ] Problems chapter 30
-   - [ ] Problems chapter 31
+   - [ ] Read chapter 29 and complete exercises
+   - [ ] Read chapter 30 and complete exercises
+   - [ ] Read chapter 31 and complete exercises
 4. Part IV
-   - [ ] Read chapters 32-34
-   - [ ] Problems chapter 32
-   - [ ] Problems chapter 33
-   - [ ] Problems chapter 34
+   - [ ] Read chapter 32 and complete exercises
+   - [ ] Read chapter 33 and complete exercises
+   - [ ] Read chapter 34 and complete exercises
 
 ## Textbook
 
