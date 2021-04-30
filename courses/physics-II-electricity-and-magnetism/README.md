@@ -13,13 +13,13 @@ Loosely based on [MIT 8.02](https://ocw.mit.edu/courses/physics/8-02-physics-ii-
    - [x] Read chapter 27 and complete exercises
    - [x] Read chapter 28 and complete exercises
 3. Part III
-   - [ ] Read chapter 29 and complete exercises
-   - [ ] Read chapter 30 and complete exercises
-   - [ ] Read chapter 31 and complete exercises
+   - [x] Read chapter 29 and complete exercises
+   - [x] Read chapter 30 and complete exercises
+   - [x] Read chapter 31 and complete exercises
 4. Part IV
-   - [ ] Read chapter 32 and complete exercises
-   - [ ] Read chapter 33 and complete exercises
-   - [ ] Read chapter 34 and complete exercises
+   - [x] Read chapter 32 and complete exercises
+   - [x] Read chapter 33 and complete exercises
+   - [x] Read chapter 34 and complete exercises
 
 ## Textbook
 
