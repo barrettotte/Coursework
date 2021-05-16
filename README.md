@@ -53,9 +53,10 @@ Its worth noting that there are duplicate entries between plans since some disci
 | 4 | [Introduction to Solid State Chemistry](courses/intro-to-solid-state-chemistry) | [Chemistry: Principles, Patterns, And Applications; Averill, Eldredge](https://isbnsearch.org/isbn/9780805338034) | Materials Science and Engineering | Undergraduate |
 | 5 | [Differential Equations](courses/differential-equations) | [Differential Equations with Boundary-Value Problems; Zill, Cullen](https://isbnsearch.org/isbn/9780495108368) | Mathematics | Undergraduate |
 | 6 | [Physics I - Classical Mechanics](courses/physics-I-classical-mechanics) | [Physics for Scientists and Engineers; Serway, Jewett](https://isbnsearch.org/isbn/9780534408428) | Physics | Undergraduate |
+| 7 | [Physics II - Electricity and Magnetism](courses/physics-II-electricity-and-magnetism) | [Physics for Scientists and Engineers; Serway, Jewett](https://isbnsearch.org/isbn/9780534408428) | Physics | Undergraduate |
 
 ### In Progress
 
 | Sequence | Title | Textbook | Discipline | Level |
 | ---- | ---- | ----- | ---------- | ----- |
-| 7 | [Physics II - Electricity and Magnetism](courses/physics-II-electricity-and-magnetism) | [Physics for Scientists and Engineers; Serway, Jewett](https://isbnsearch.org/isbn/9780534408428) | Physics | Undergraduate |
+| 8 | [Thermodynamics](courses/thermodynamics) | [Thermodynamics: An Engineering Approach; Cengel](https://isbnsearch.org/isbn/9353165741) | Mechanical Engineering | Undergraduate |

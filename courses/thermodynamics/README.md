@@ -1,7 +1,5 @@
 # Thermodynamics
 
-[Thermodynamics: An Engineering Approach](https://isbnsearch.org/isbn/9353165741)
-
 ## Course Completion
 
 TODO:
